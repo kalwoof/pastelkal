@@ -32,11 +32,11 @@
         "PRIMARY_DARK_300": "#c0a5b6",
         "PRIMARY_DARK_360": "#5e425b",
         "PRIMARY_DARK_400": "#c0a5b6",
-        "PRIMARY_DARK_500": "#d6a7d5",
-        "PRIMARY_DARK_600": "#d6a7d5",
+        "PRIMARY_DARK_500": "#e4bcbf",
+        "PRIMARY_DARK_600": "#e4bcbf",
         "PRIMARY_DARK_630": "#5f5463",
-        "PRIMARY_DARK_700": "#d6a7d5",
-        "PRIMARY_DARK_800": "#d47bad",
+        "PRIMARY_DARK_700": "#e4bcbf",
+        "PRIMARY_DARK_800": "#e6c2c5",
         "PRIMARY_DARK_900": "#c0a5b6"
     }
 }
