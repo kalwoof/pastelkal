@@ -1,7 +1,7 @@
 {
     "name": "discalm",
     "theme_color_map": {
-        "BACKGROUND_PRIMARY": ["#28173b", "#FFFFFF"],
+        "BACKGROUND_PRIMARY": ["#ebebeb", "#FFFFFF"],
         "BACKGROUND_SECONDARY": ["#2b2a6b", "#FFFFFF"],
         "BACKGROUND_SECONDARY_ALT": ["#28173b", "#FFFFFF"],
         "BACKGROUND_TERTIARY": ["#28173b", "#FFFFFF"],
