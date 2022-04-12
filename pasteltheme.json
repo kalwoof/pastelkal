@@ -3,7 +3,7 @@
     "theme_color_map": {
         "BACKGROUND_PRIMARY": ["#f9f5f4", "#FFFFFF"],
         "BACKGROUND_SECONDARY": ["#f5eded", "#FFFFFF"],
-        "BACKGROUND_SECONDARY_ALT": ["#d1c5c5", "#FFFFFF"],
+        "BACKGROUND_SECONDARY_ALT": ["#f5eded", "#FFFFFF"],
         "BACKGROUND_TERTIARY": ["#e6c2c5", "#FFFFFF"],
         "BACKGROUND_ACCENT": ["#e4bcbf", "#FFFFFF"],
         "BACKGROUND_FLOATING": ["#e6c2c5", "#FFFFFF"],
