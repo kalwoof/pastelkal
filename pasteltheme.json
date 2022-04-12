@@ -15,7 +15,7 @@
         "BACKGROUND_MODIFIER_SELECTED": ["#f5eded", "#FFFFFF"],
         "BACKGROUND_MODIFIER_ACCENT": ["#f5eded", "#FFFFFF"],
         "CHANNELTEXTAREA_BACKGROUND": ["#e4bcbf", "#FFFFFF"],
-        "CHANNELS_DEFAULT": ["#f5eded", "#FFFFFF"],
+        "CHANNELS_DEFAULT": ["#6e5b6a", "#FFFFFF"],
         "HEADER_PRIMARY": ["#f5eded", "#FFFFFF"],
         "HEADER_SECONDARY": ["#e4bcbf", "#FFFFFF"],
         "INTERACTIVE_ACTIVE": ["#ad9597", "#FFFFFF"],
