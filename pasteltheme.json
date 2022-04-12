@@ -2,7 +2,7 @@
     "name": "pasteltheme",
     "theme_color_map": {
         "BACKGROUND_PRIMARY": ["#f5ebeb", "#FFFFFF"],
-        "BACKGROUND_SECONDARY": ["#f9f5f4", "#FFFFFF"],
+        "BACKGROUND_SECONDARY": ["#e4bcbf", "#FFFFFF"],
         "BACKGROUND_SECONDARY_ALT": ["#f9f5f4", "#FFFFFF"],
         "BACKGROUND_TERTIARY": ["#e6c2c5", "#FFFFFF"],
         "BACKGROUND_ACCENT": ["#e4bcbf", "#FFFFFF"],
@@ -26,7 +26,7 @@
         "TEXT_LINK": ["#6e5b6a", "#FFFFFF"]
     },
     "colours": {
-        "PRIMARY_DARK": "#bfbfbf",
+        "PRIMARY_DARK": "#f2edf1",
         "PRIMARY_DARK_100": "#c0a5b6",
         "PRIMARY_DARK_200": "#ebbedd",
         "PRIMARY_DARK_300": "#c0a5b6",
